@@ -1,0 +1,26 @@
+div {
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.canto{
+    background-color: red;
+    border: 2px solid black;
+}
+.borda {
+    background-color: red;
+}
+
+.azul{
+    background-color: aqua;
+}
+
+.verde{
+    background-color: green;
+}
+
+.amarelo{
+    background-color: yellow;
+}
